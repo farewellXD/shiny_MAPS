@@ -11,18 +11,18 @@ body {
 
 a {
   color: #1e6bb8;
-  font-family: "Noto Sans TC","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "微軟正黑體";
   text-decoration: none; }
 a:hover {
     text-decoration: underline; }
 h1 {
-   font-family: "Noto Sans TC","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: "微軟正黑體";
     }
 h2 {
-   font-family: "Noto Sans TC","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family:"微軟正黑體";
     }
 p  {
-   font-family: "Noto Sans TC","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: "微軟正黑體";
     }
 
 .btn {
