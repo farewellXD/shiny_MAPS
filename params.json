@@ -1,0 +1,6 @@
+{
+  "name": "MAPS Taiwan 繫放資料分析結果",
+  "tagline": "特有生物研究保育中心 MAPS Taiwan 繫放團隊",
+  "body": "### **有關MAPS Taiwan**\r\nMAPS Taiwan (台灣鳥類生產力與存活率監測, The Monitoring Avian Productivity and Survivorship program, Taiwan)是一個希望透過政府機關、非政府組織、專業科學家及志工共同合作與參與的公民科學(Citizen Science)活動。本計畫的長期目標是瞭解整個台灣在不同空間尺度、不同海拔及不同棲地特性之下，鳥類族群生產力及年間存活率的變異，並以陸域燕雀目鳥類為主要研究對象；為了達到這個目標，MAPS Taiwan需透過廣布於台灣各類生態系、區，且以固定努力量(constant-effort)運轉的繫放站網絡來蒐集資料。\r\n\r\n***\r\n\r\n### **有關於資料**\r\n每年 3月到9月 之間 (7個月)，我們每半個月或1個月在各繫放站進行 1 天的繫放(自2012年起調整為每25天進行1次)。每次繫放在天亮時開網，6 個小時後闔網。然後，藉由標準化繫放流程的繫放結果，來估算鳥的族群量變化和評估每一地點的鳥類的生殖概況。\r\n\r\n***\r\n\r\n### **資料呈現**\r\n## 頭骨鈣化示意圖\r\n\r\n***\r\n\r\n![鳥類頭骨示意圖](https://github.com/farewellXD/shiny_MAPS/blob/master/rect15344.png?raw=true)\r\n\r\n\r\n***\r\n## 孵卵斑示意圖\r\n\r\n***\r\n## 洩殖腔示意圖\r\n\r\n***\r\n\r\n### Shiny result\r\n\r\n### Support or Contact\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
