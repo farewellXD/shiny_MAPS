@@ -13,7 +13,9 @@ a {
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline; 
+    font-family: "Noto Sans TC","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 .btn {
   display: inline-block;
