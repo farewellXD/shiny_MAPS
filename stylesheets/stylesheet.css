@@ -13,7 +13,7 @@ a {
   color: #1e6bb8;
   font-family: "微軟正黑體";
   text-decoration: none; }
-a:anchor {
+a.anchor {
   font-family: "微軟正黑體";
   text-decoration: underline; }
 h1 {
